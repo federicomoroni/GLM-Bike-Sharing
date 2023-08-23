@@ -1,6 +1,6 @@
 ---
 title: "GLM applied to Bike Sharings"
-author: "Gabriele Cola"
+author: "Federico Moroni"
 date: "2023-07-12"
 output:  
   html_document:
